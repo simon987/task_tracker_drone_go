@@ -1,3 +1,5 @@
 .idea
 *.iml
 task_tracker_drone_go
+workdir
+*.json
